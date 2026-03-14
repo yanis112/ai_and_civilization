@@ -3,3 +3,5 @@ description: Exploring the intersection of Artificial Intelligence, Optimization
 remote_theme: daattali/beautiful-jekyll@master
 author: Yanis
 future: true
+url: "https://yanis112.github.io"
+baseurl: "/ai_and_civilization"
