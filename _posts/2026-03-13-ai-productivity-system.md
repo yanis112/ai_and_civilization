@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Building an AI-Powered Second Brain for Solopreneurs"
 date: 2026-03-13
 ---

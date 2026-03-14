@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "How to Automatize Text-to-SQL: Bridging Natural Language and Databases"
 date: 2026-03-14
 ---
