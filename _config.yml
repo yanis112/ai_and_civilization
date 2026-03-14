@@ -2,8 +2,9 @@ title: AI & Civilization
 description: Exploring the intersection of Artificial Intelligence, Optimization, and Human Progress
 remote_theme: daattali/beautiful-jekyll@master
 author: Yanis Labeyrie
-avatar: "/assets/img/avatar.jpg"
+avatar: "assets/img/avatar.jpg"
 author_desc: "Optimization & Artificial Intelligence Enthusiast. I build systems to automate the tedious and optimize the complex."
+navbar-title: "AI & Civilization"
 future: true
 url: "https://yanis112.github.io"
 baseurl: "/ai_and_civilization"
