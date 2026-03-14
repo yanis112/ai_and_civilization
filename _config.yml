@@ -1,4 +1,5 @@
 title: AI & Civilization
 description: Exploring the intersection of Artificial Intelligence, Optimization, and Human Progress
-theme: jekyll-theme-cayman
+remote_theme: daattali/beautiful-jekyll@master
+author: Yanis
 future: true
