@@ -42,7 +42,7 @@ Just as diversifying a portfolio of uncorrelated assets reduces overall variance
 
 If you have \\( n \\) independent evaluators with a variance \\( \sigma^2 \\) in their errors, the variance of the mean prediction drops to \\( \sigma^2 / n \\). In prediction markets, the financial incentive ensures that these "evaluators" are not just guessing—they are forced to be **Antifragile** (as Nassim Taleb would say), profiting from the volatility of others' ignorance.
 
-![Market Mechanism Illustration]({{ '/assets/img/editorial-illustration-for-the-economist--cinemati.png' | relative_url }})
+![Market Mechanism Illustration]({{ '/assets/img/1000037377.jpg' | relative_url }})
 *Figure 1: The mathematical convergence of decentralized beliefs. This visualization demonstrates how individual "noise" cancels out, leaving only the high-fidelity price signal—the ultimate proof of the Markowitz variance reduction principle in real-time forecasting.*
 
 ### 4. EPCSL Analysis: The "Grand Laws" of Market Prediction
