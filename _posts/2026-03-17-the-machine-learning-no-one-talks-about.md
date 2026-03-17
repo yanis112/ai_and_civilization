@@ -61,3 +61,10 @@ In this new regime, the market acts as the ultimate **Truth Oracle** for AI alig
 **Strategic Implications:**
 - **For Geopolitics:** Stop watching "Expert" panels; watch the order book on the Strait of Hormuz markets.
 - **For AI Safety:** Use prediction markets as a decentralized oversight mechanism for AI predictions.
+
+---
+
+### References & Data Sources
+- [Polymarket - The World's Largest Prediction Market](https://polymarket.com/)
+- [Kalshi - Regulated US Prediction Markets](https://kalshi.com/)
+- [Mises.org - The Socialist Calculation Debate](https://mises.org/library/economic-calculation-socialist-commonwealth)
