@@ -8,3 +8,6 @@ navbar-title: "AI & Civilization"
 future: true
 url: "https://yanis112.github.io"
 baseurl: "/ai_and_civilization"
+
+# Enable MathJax site-wide
+mathjax: true
