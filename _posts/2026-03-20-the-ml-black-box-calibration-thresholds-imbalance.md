@@ -1,10 +1,14 @@
 ---
 layout: post
 title: "Beyond the Sigmoid: The Hidden Mechanics of Model Calibration and Threshold Tuning"
-date: 2026-03-20
-categories: [Machine Learning, Data Science, Engineering]
+date: 2026-03-20 10:00:00 +0100
+description: "Why 0.5 is the wrong threshold for production ML. A deep-dive into class imbalance, Brier Score calibration, Isotonic Regression, Platt Scaling, and using Optuna to find the F1-optimal decision boundary."
+categories: [machine-learning, data-science, engineering]
+tags: [model-calibration, class-imbalance, threshold-tuning, optuna, brier-score, platt-scaling, isotonic-regression, fraud-detection]
+author: Yanis Labeyrie
 image: /assets/img/model-calibration-illustration.png
 mathjax: true
+last_modified_at: 2026-03-20
 ---
 
 ![Model Calibration Illustration]({{ '/assets/img/model-calibration-illustration.png' | relative_url }})

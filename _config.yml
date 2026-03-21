@@ -1,12 +1,36 @@
 title: AI & Civilization
 description: Exploring the intersection of Artificial Intelligence, Optimization, and Human Progress
-remote_theme: daattali/beautiful-jekyll@master
-author: Yanis Labeyrie
-author_desc: "Optimization & Artificial Intelligence Enthusiast. I build systems to automate the tedious and optimize the complex."
-navbar-title: "AI & Civilization"
-future: true
 url: "https://aiandcivilization.github.io"
 baseurl: "/ai_and_civilization"
+lang: en
+
+remote_theme: daattali/beautiful-jekyll@master
+
+author:
+  name: Yanis Labeyrie
+
+author_desc: "Optimization & Artificial Intelligence Enthusiast. I build systems to automate the tedious and optimize the complex."
+navbar-title: "AI & Civilization"
+
+# Social links for jekyll-seo-tag structured data
+social:
+  name: Yanis Labeyrie
+  links:
+    - https://github.com/aiandcivilization
+
+twitter:
+  username: ""
+
+# Show future-dated posts
+future: true
 
 # Enable MathJax site-wide
 mathjax: true
+
+# SEO & Sitemap plugins (whitelisted on GitHub Pages)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Permalink structure: clean slug, no spaces
+permalink: /:categories/:year/:month/:day/:title/

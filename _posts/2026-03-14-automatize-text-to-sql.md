@@ -1,7 +1,12 @@
 ---
 layout: post
 title: "How to Automatize Text-to-SQL: Bridging Natural Language and Databases"
-date: 2026-03-14
+date: 2026-03-14 10:00:00 +0100
+description: "Step-by-step guide to building a robust Text-to-SQL pipeline using LLMs, Schema RAG, and a validation loop — enabling business teams to query databases in plain English without writing a single line of SQL."
+categories: [ai, data-engineering, sql]
+tags: [text-to-sql, llm, rag, data-engineering, natural-language-processing, database]
+author: Yanis Labeyrie
+last_modified_at: 2026-03-14
 ---
 
 # How to Automatize Text-to-SQL

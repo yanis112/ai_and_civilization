@@ -1,10 +1,14 @@
 ---
 layout: post
 title: "The Machine Learning No One Talks About: Why Markets are the Ultimate Neural Network"
-date: 2026-03-17
-categories: [Machine Learning, Economics, Geopolitics]
+date: 2026-03-17 10:00:00 +0100
+description: "Prediction markets are the most powerful machine learning system ever built — and it runs without GPUs. Discover how Crowdsourced ML, Von Mises price signals, and Markowitz variance reduction converge in real-time geopolitical forecasting."
+categories: [machine-learning, economics, geopolitics]
+tags: [prediction-markets, polymarket, crowdsourced-ml, von-mises, markowitz, lmsr, geopolitics]
+author: Yanis Labeyrie
 image: /assets/img/markets-neural-network.png
 mathjax: true
+last_modified_at: 2026-03-17
 ---
 
 ![Machine Learning Markets Illustration]({{ '/assets/img/markets-neural-network.png' | relative_url }})
@@ -35,7 +39,7 @@ It’s just code.
 ### 2. The Von Mises Signal: Beyond Central Planning
 
 Why do markets beat the most advanced AI in geopolitical forecasting?
-Look at the **Socialist Calculation Debate** of the 1920s.
+To understand this mechanism, we need an analogy from a completely different domain: the history of economic planning. Specifically, we must look at the **Socialist Calculation Debate** of the 1920s.
 
 Ludwig von Mises argued a core truth.
 Without private property and exchange, there are no market prices.
@@ -62,8 +66,7 @@ No centralized model can compute this.
 ### 3. Statistical Power: Variance Reduction & Markowitz
 
 A crowd of "biased" individuals produces near-perfect predictions.
-It’s counter-intuitive.
-This is the "Wisdom of Crowds" through **Markowitz Portfolio Theory**.
+It’s counter-intuitive. To make sense of this, we must borrow a concept from quantitative finance: this is the "Wisdom of Crowds" viewed through the lens of **Markowitz Portfolio Theory**.
 
 Diversifying a portfolio of uncorrelated assets reduces overall variance.
 Aggregating a "portfolio of beliefs" reduces the error variance of the collective prediction.
@@ -76,13 +79,13 @@ They profit from the volatility of others' ignorance.
 ![Market Mechanism Illustration]({{ '/assets/img/1000037377.jpg' | relative_url }})
 *Figure 1: The mathematical convergence of decentralized beliefs. Individual "noise" cancels out. The high-fidelity price signal remains. Proof of the Markowitz variance reduction principle in real-time forecasting.*
 
-### 4. EPCSL Analysis: The "Grand Laws" of Market Prediction
+### 4. The Mechanics of Market Prediction
 
-Applying the **EPCSL (Cross-Domain Pattern Extractor)** procedure yields three "Grand Laws" of this hidden machine learning:
+When we strip away the noise, the fundamental mechanics of prediction markets reveal three core operating principles:
 
-1.  **The Law of Skin-in-the-Game:** *Decentralized incentives aggregate truth faster than centralized compute processes data.*
-2.  **The Law of Variance Reduction:** *Accuracy is a function of independent diversity, not individual brilliance.* (The Markowitz Efficient Frontier).
-3.  **The Geopolitical Truth Oracle:** *No AI can currently predict geopolitics. It requires real-time feature extraction from unstructured "human" data. Markets solve this via price discovery.*
+1.  **Incentivized Aggregation:** *Decentralized incentives aggregate truth faster than centralized compute processes data.*
+2.  **Variance Reduction:** *Accuracy is a function of independent diversity, not individual brilliance.* (The Markowitz Efficient Frontier).
+3.  **Real-Time Feature Extraction:** *No AI can currently predict geopolitics. It requires real-time feature extraction from unstructured "human" data. Markets solve this via price discovery.*
 
 ### Conclusion: The Hybrid Future
 

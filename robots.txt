@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aiandcivilization.github.io/ai_and_civilization/sitemap.xml

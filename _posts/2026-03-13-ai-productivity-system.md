@@ -1,7 +1,12 @@
 ---
 layout: post
 title: "Building an AI-Powered Second Brain for Solopreneurs"
-date: 2026-03-13
+date: 2026-03-13 10:00:00 +0100
+description: "How solopreneurs can use AI (GPT-4, Claude) and automation platforms like Make.com to build a second brain that handles emails, tasks, and workflows autonomously — saving 10+ hours per week."
+categories: [ai, automation, productivity]
+tags: [second-brain, llm, make-com, notion, solopreneur, workflow-automation]
+author: Yanis Labeyrie
+last_modified_at: 2026-03-13
 ---
 
 # Building an AI-Powered Second Brain for Solopreneurs
